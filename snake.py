@@ -5,7 +5,7 @@ black = (0,0,0)
 white = (255,255,255)
 
 # Create Surface
-gaveDisplay = pygame.display.set_mode((800,600))
+gameDisplay = pygame.display.set_mode((800,600))
 
 pygame.display.set_caption("The Snake") 
 
